@@ -21,6 +21,6 @@ This repository contains the following:
 
 <br />
 <p float="left">
-<img src="https://github.com/jacyap/FilmProtocol/blob/main/Examples/F2_19-Mar-2021.png" width="500"/> 
-<img src="https://github.com/jacyap/FilmProtocol/blob/main/Examples/19-Mar-2021_CalibrationCurve.png" width="400"/>
+<img src="https://github.com/jacyap/FilmProtocol/blob/main/Examples/F2_19-Mar-2021.png" width="400"/> 
+<img src="https://github.com/jacyap/FilmProtocol/blob/main/Examples/19-Mar-2021_CalibrationCurve.png" width="320"/>
 </p>
