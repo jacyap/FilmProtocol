@@ -9,8 +9,8 @@ These scripts will automate the generation of a calibration curve, fit and beam 
 
 This repository contains the following:
 
-- **FilmProtocol_MATLAB_ImageJ_JYAP** (user guide)
-- **MatlabScripts**
+- **FilmProtocol_MATLAB_ImageJ_JYAP** (.pdf user guide)
+- **MatlabScripts** (.m files)
   - CalibrationODtoDose, PlotProfileofScannedFilmWithOD, CalibrationGreen, CalibrationBlue
 - **Examples**
   - CalibrationCurve.png
